@@ -141,7 +141,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 ## About
 
-Created on Ubuntu 14.04 LTS
+Created on Ubuntu 14.04 LTS.
 
 Compiled with gcc 4.8.4, using flags: -Wall -Werror -Wextra and -pedantic
 
