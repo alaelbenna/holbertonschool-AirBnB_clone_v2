@@ -1,5 +1,5 @@
-#! /usr/bin/env bash
-# bash Script to Setup Airbnb Static_web 
+#!/usr/bin/env bash
+# Bash Script to Setup Airbnb Static_web 
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install -y nginx
